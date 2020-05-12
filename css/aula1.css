@@ -22,7 +22,7 @@ a {
 .menu ul {
   display:flex; 
   background-color: white;
-  justify-content: space-around;
+  justify-content: space-evenly;
 
 }
 
