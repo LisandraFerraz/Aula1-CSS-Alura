@@ -1,0 +1,30 @@
+/* Aula inicial :D */
+
+body 
+  {background-image: url('https://image.freepik.com/fotos-gratis/fundo-gradiente-suave_77528-21.jpg');
+  background-size: auto 100vh;
+    font-family:verdana;
+  
+}
+
+.site-title, .site-subtitle {
+   color: whitesmoke;
+    text-align: center;
+  
+}
+
+a {
+  text-decoration: none;
+  font-family: arial;
+  font-size: 20px;
+}
+
+.menu ul {
+  display:flex; 
+  background-color: white;
+  justify-content: space-around;
+
+}
+
+.menu li {list-style:none;   
+  text-decoration: none;}
